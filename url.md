@@ -2,7 +2,7 @@
 layout: default
 title: "Link belajar OS"
 permalink: /URLs/
-theme: jekyll-theme-hacker	
+theme: jekyll-theme-prologue	
 ---
 
 
