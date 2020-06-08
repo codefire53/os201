@@ -14,11 +14,13 @@ Saya membuat website ini selain untuk mengerjakan tugas UAS, saya juga ingin ber
 
 ## Profil penulis
 
-Mahardika Krisna Ihsani, biasa dipanggil Krisna. Seorang mahasiswa ilmu komputer angkatan 2018 biasa.
+<img src="profile.png">
+
+Mahardika Krisna Ihsani, biasa dipanggil Krisna. Seorang mahasiswa ilmu komputer UI angkatan 2018 yang mempunyai hobi bernafas.
 
 
 
 
 ## Copyright
 
-Feel free to share & modify this page via github
+Feel free to share & modify this page via github. 
