@@ -17,3 +17,5 @@ Saya membuat website ini selain untuk mengerjakan tugas UAS, saya juga ingin ber
 Mahardika Krisna Ihsani, biasa dipanggil Krisna. Seorang mahasiswa ilmu komputer angkatan 2018 biasa.
 
 
+## Copyright
+Feel free to share & modify this page via github

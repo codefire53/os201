@@ -4,7 +4,7 @@ title: "Link belajar OS"
 permalink: /URLs/
 theme: jekyll-theme-hacker	
 ---
-
+[Home](https://codefire53.github.io/os201/)
 
 # Resource Belajar Operating Systems
 
@@ -15,3 +15,11 @@ theme: jekyll-theme-hacker
 - [Dokumentasi Bash](https://www.gnu.org/software/bash/manual/bash.html)
 - [Dokumentasi C programming](https://en.cppreference.com/w/c/language)
 - [Regexegg](https://www.rexegg.com)
+
+## Acknowledgement
+Saya mengucapkan terima kasih terutama kepada dosen mata kuliah OS saya yaitu bapak Rahmat Mustafa Samik Ibrahim, atau biasa dipanggil RMS karena sudah bekerja keras untuk memberikan ilmu operating systems. Beliau juga berjasa untuk mengompilasi website os.vlsm.org. Kalian bisa melihat blog beliau di [sini](http://rahmatm.samik-ibrahim.vlsm.org/)
+
+## Copyright
+Feel free to share & modify this page via github
+
+
