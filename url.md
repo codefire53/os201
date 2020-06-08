@@ -14,4 +14,4 @@ theme: jekyll-theme-hacker
 - [Contoh solusi ujian OS Fasilkom UI](https://gitlab.com/dhanar_santika/contoh-solusi-os)
 - [Dokumentasi Bash](https://www.gnu.org/software/bash/manual/bash.html)
 - [Dokumentasi C programming](https://en.cppreference.com/w/c/language)
-- [Regexegg](https://www.rexegg.com)/
+- [Regexegg](https://www.rexegg.com)
