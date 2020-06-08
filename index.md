@@ -1,12 +1,12 @@
 ---
 title: Krisna's GitHub Pages
 layout: default
-theme: jekyll-theme-hacker
+theme: jekyll-theme-prologue
 ---
 
 # Website apa ini?
 
-Website ini berisi deskripsi singkat mengenai saya pribadi serta daftar link-link yang berguna untuk mempelajari Operating Systems. Link tersebut dapat diakses di [sini] (URL/s)
+Website ini berisi deskripsi singkat mengenai saya pribadi serta daftar link-link yang berguna untuk mempelajari Operating Systems. Link tersebut dapat diakses di [sini](URLs/)
 
 # Mengapa website ini dibuat?
 
