@@ -1,7 +1,7 @@
 ---
 title: Krisna's GitHub Pages
 layout: default
-theme: jekyll-theme-prologue
+theme: jekyll-theme-hacker
 ---
 
 # Website apa ini?
