@@ -1,34 +1,36 @@
-Script started on Tue 09 Jun 2020 01:16:27 PM WIB
-mahardika.krisna@badak:~/gitdir/PRIBADI/os201/UAS$ PS1="$ "
-$ echo $GitHubUser
+Script started on 2020-06-24 00:36:40+0700
+(base)  mki@ubuntu  ~/OS/PRIBADI/os201/UAS   master ●  PS1="$ "
+$ echo $akunGitHub
 codefire53
 $ echo $PSTAMP
-TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
-$ eval $PSTAMP
-200609-131652-5142-UAS/>
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(sleep 1;echo $TMP1-$akunGitHub-${PWD##*/}|sha1sum|
+cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ date
+Wed Jun 24 00:36:57 WIB 2020
 $ PS1="\$(eval \$PSTAMP)"
-200609-131704-c93d-UAS/> echo -e $CEKSAYA
-codefire53 ZCZCSCRIPTSTART 200530-121742 codefire53
-codefire53 codefire53 200530-121835-77f1-UAS/ 200530-121835 SEQOK SUMOK 77f17416
-codefire53 codefire53 200530-121857-e083-UAS/ 200530-121857 SEQOK SUMOK e083f6fa
-codefire53 codefire53 200530-121906-3b49-UAS/ 200530-121906 SEQOK SUMOK 3b491c2d
-codefire53 codefire53 200530-121915-0e09-UAS/ 200530-121915 SEQOK SUMOK 0e09fddc
-codefire53 ZCZCSCRIPTSTOP 200530-121937 SEQOK
-200609-131726-34db-UAS/> echo -e $CEKSEBELA1
+200624-003706-1558-UAS/> echo -e $CEKSAYA
+codefire53 ZCZCSCRIPTSTART 200624-000758 codefire53
+codefire53 codefire53 200624-000828-83c9-UAS/ 200530-121835 SEQOK SUMOK 83c9851e
+codefire53 codefire53 200624-000837-37e5-UAS/ 200530-121857 SEQOK SUMOK 37e5dad2
+codefire53 codefire53 200624-000841-27fe-UAS/ 200530-121906 SEQOK SUMOK 27fea721
+codefire53 ZCZCSCRIPTSTOP 200624-000847 SEQOK
+
+200624-003713-e04a-UAS/> echo -e $CEKSEBELA1
 codefire53 ZCZCSCRIPTSTART 200607-195207 dafpool4
 codefire53 dafpool4 200607-195604-fdd4-ananda.daffa/ 200607-195604 SEQOK SUMOK fdd48df1
 codefire53 dafpool4 200607-195712-f302-ananda.daffa/ 200607-195712 SEQOK SUMOK f3025c80
 codefire53 dafpool4 200607-195805-fb77-ananda.daffa/ 200607-195805 SEQOK SUMOK fb777dd5
 codefire53 dafpool4 200607-195832-e7b6-ananda.daffa/ 200607-195832 SEQOK SUMOK e7b6464a
 codefire53 ZCZCSCRIPTSTOP 200607-195904 SEQOK
-200609-131734-9d33-UAS/> echo -e $CEKSEBELA2
+
+200624-003721-df60-UAS/> echo -e $CEKSEBELA2
 codefire53 ZCZCSCRIPTSTART 200607-221553 dariantexanditama
 codefire53 dariantexanditama 200607-221643-b3d1-darian/ 200607-221643 SEQOK SUMOK b3d1b8f6
 codefire53 dariantexanditama 200607-221653-d929-darian/ 200607-221653 SEQOK SUMOK d9292581
 codefire53 dariantexanditama 200607-221713-5a4c-darian/ 200607-221713 SEQOK SUMOK 5a4c4363
 codefire53 dariantexanditama 200607-221717-a817-darian/ 200607-221717 SEQOK SUMOK a817d45f
 codefire53 ZCZCSCRIPTSTOP 200607-221732 SEQOK
-200609-131740-64e6-UAS/> exit
-exit
 
-Script done on Tue 09 Jun 2020 01:17:44 PM WIB
+200624-003728-b72f-UAS/> exit
+
+Script done on 2020-06-24 00:37:31+0700
